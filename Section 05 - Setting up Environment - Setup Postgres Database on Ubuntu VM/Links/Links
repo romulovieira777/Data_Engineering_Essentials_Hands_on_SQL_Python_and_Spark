@@ -2,16 +2,23 @@ Links
 
 https://jupyterlab.itversity.com/03_setup_postgres_database/03_setup_postgres_using_docker.html
 
+
 https://jupyterlab.itversity.com/03_setup_postgres_database/02_docker_cheat_sheet.html
+
 
 https://jupyterlab.itversity.com/03_setup_postgres_database/04_accessing_postgres_using_docker_cli.html
 
-https://jupyterlab.itversity.com/03_setup_postgres_database/05_create_database_and_user.html
 
 https://jupyterlab.itversity.com/03_setup_postgres_database/05_create_database_and_user.html
+
+
+https://jupyterlab.itversity.com/03_setup_postgres_database/05_create_database_and_user.html
+
 
 https://jupyterlab.itversity.com/03_setup_postgres_database/08_sql_workbench_and_postgres.html
 
+
 https://jupyterlab.itversity.com/03_setup_postgres_database/11_jupyter_lab_and_postgresql.html
+
 
 https://jupyterlab.itversity.com/03_setup_postgres_database/12_jupyter_lab_and_postgresql_on_ubuntu_vm.html

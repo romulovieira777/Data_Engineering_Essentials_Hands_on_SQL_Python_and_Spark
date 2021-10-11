@@ -1,0 +1,56 @@
+Free Download - Course Material
+Instructions to set up the material.
+
+Step 1: Setup the lab or get our lab access
+
+Setup Lab on GCP
+
+Section 3: Setting up Environment - Overview of GCP and Provision Ubuntu VM
+
+Section 4: Setting up Environment - Setup Postgres Database on Ubuntu VM
+
+Setup Lab on Cloud 9
+
+Section 2: Setting up Environment using AWS Cloud9
+
+Section 4: Setting up Environment - Setup Postgres Database on Ubuntu VM
+
+ITVersity Labs
+
+You can skip Sections 2, 3, and 4 if you have decided to go with our Big Data labs.
+
+Validate if the material is uploaded or not, if the material is uploaded you can skip the below steps and start learning immediately.
+
+If the material is not uploaded already, then make sure to follow the below steps to ensure that practice material is automatically set up.
+
+Step 2: Download the Zip File
+
+Go to the Downloadable resources under this topic.
+
+Click on Download to download to your PC.
+
+Sometimes the zip file might automatically uncompress. If the zip file is uncompressed, make sure to right-click and click on the compress button.
+
+We need to have a compressed zip file to upload to the lab
+
+Step 3: Upload to your lab or ITVersity Labs
+
+Go to the Jupyter Lab interface using the URL based on the server or Labs
+
+Click the upload button on the left bar
+
+Launch Terminal
+
+Run unzip data-engineering-essentials.zip
+
+Make sure you see all the folders with subfolders that contain notebooks
+
+Step 4: Training Process
+
+Go through the video content on Udemy
+
+Practice on Jupyter based environment
+
+Raise any questions related to support
+
+You can follow our Reddit community for FAQs and issues related to the material.

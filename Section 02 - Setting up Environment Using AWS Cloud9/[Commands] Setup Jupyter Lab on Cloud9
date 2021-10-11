@@ -1,0 +1,25 @@
+[Commands] Setup Jupyter Lab on Cloud9
+Steps to setup Jupyter lab
+
+Validate Python
+
+Create Virtual Environment
+
+Activate Virtual Environment
+
+Install Jupyter Lab using pip
+
+Start Jupyter Lab
+
+Open the port in EC2 Security Groups for the Cloud9 Instance
+
+Validate using Browser
+
+mkdir delab
+cd delab
+python3 -m venv delab-venv
+source delab-venv/bin/activate
+pip install jupyterlab
+jupyter lab --ip 0.0.0.0
+# You can also run in background using nohup
+nohup jupyter lab -ip 0.0.0.0 &

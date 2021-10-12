@@ -6,6 +6,7 @@
 - [Section 03 - Setting up Environment - Overview of GCP and Provision Ubuntu VM](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2003%20-%20Setting%20up%20Environment%20-%20Overview%20of%20GCP%20and%20Provision%20Ubuntu%20VM)
 - Section 04 - Networking Concepts for Beginners - Ip Addresses and Port Numbers
 - [Section 05 - Setting up Environment - Setup Postgres Database on Ubuntu VM](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2005%20-%20Setting%20up%20Environment%20-%20Setup%20Postgres%20Database%20on%20Ubuntu%20VM)
+- [Section 06 - Database Essentials - Getting Started](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2006%20-%20Database%20Essentials%20-%20Getting%20Started)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

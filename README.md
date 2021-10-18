@@ -11,6 +11,7 @@
 - [Section 08 - Database Essentials - Writing Basic SQL Queries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2008%20-%20Database%20Essentials%20-%20Writing%20Basic%20SQL%20Queries)
 - [Section 09 - Database Essentials - Creating Tables and Indexes](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2009%20-%20Database%20Essentials%20-%20Creating%20Tables%20and%20Indexes)
 - [Section 10 - Database Essentials - Partitioning Tables and Indexes](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2010%20-%20Database%20Essentials%20-%20Partitioning%20Tables%20and%20Indexes)
+- [Section 11 - Database Essentials - Predefined Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2011%20-%20Database%20Essentials%20-%20Predefined%20Functions)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

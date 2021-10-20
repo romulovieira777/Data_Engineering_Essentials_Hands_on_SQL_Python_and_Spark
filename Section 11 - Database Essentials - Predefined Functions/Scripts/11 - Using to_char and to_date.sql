@@ -138,3 +138,38 @@ SELECT
 SELECT
     CURRENT_TIMESTAMP AS Current_Timestamp
   , TO_CHAR(CURRENT_TIMESTAMP, 'hh') AS Hour_12
+
+
+SELECT
+    CURRENT_TIMESTAMP AS Current_Timestamp
+  , TO_CHAR(CURRENT_TIMESTAMP, 'mm') AS Minutes
+
+
+SELECT
+    CURRENT_TIMESTAMP AS Current_Timestamp
+  , TO_CHAR(CURRENT_TIMESTAMP, 'ss') AS Seconds
+
+
+SELECT
+    CURRENT_TIMESTAMP AS Current_Timestamp
+  , TO_CHAR(CURRENT_TIMESTAMP, 'MS') AS Millis
+
+
+SELECT
+    TO_CHAR(CURRENT_TIMESTAMP, 'yyyyMM') AS Current_Month
+
+
+SELECT
+    TO_CHAR(CURRENT_TIMESTAMP, 'yyyyMM')::INT AS Current_Month
+
+
+SELECT
+    TO_CHAR(CURRENT_TIMESTAMP, 'yyyyMMdd') AS Current_Date
+
+
+SELECT
+    TO_CHAR(CURRENT_TIMESTAMP, 'yyyyMMdd')::INT AS Current_Date
+
+
+SELECT
+    TO_CHAR(CURRENT_TIMESTAMP, 'yyyy/MM/dd') AS Current_Date

@@ -1,0 +1,23 @@
+-- Dealing with Unix Timestamp
+SELECT
+    EXTRACT(epoch FROM CURRENT_DATE) AS Date_Epoch
+
+
+SELECT
+    DATE_PART('epoch', CURRENT_DATE) AS Date_Epoch
+
+
+SELECT
+    EXTRACT(epoch FROM '2019-04-30 18:18:51'::TIMESTAMP) AS Unixtime
+
+
+SELECT
+   TO_TIMESTAMP(1556662731) AS Time_from_Epoch
+
+
+SELECT
+   TO_TIMESTAMP(1556662731)::DATE AS Time_from_Epoch
+
+
+SELECT
+    TO_CHAR(TO_TIMESTAMP(1556662731), 'yyyyMM')::INT AS yyyyMM_from_epoch

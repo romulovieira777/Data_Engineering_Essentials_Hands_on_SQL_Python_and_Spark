@@ -15,6 +15,7 @@
 - [Section 12 - Database Essentials - Writing Advanced SQL Queries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2012%20-%20Database%20Essentials%20-%20Writing%20Advanced%20SQL%20Queries)
 - [Section 13 - Programming Essentials Using Python - Perform Database Operations](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2013%20-%20Programming%20Essentials%20Using%20Python%20-%20Perform%20Database%20Operations)
 - [Section 14 - Programming Essentials Using Python - Getting Started with Python](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2014%20-%20Programming%20Essentials%20Using%20Python%20-%20Getting%20Started%20with%20Python/Links)
+- [Section 15 - Programming Essentials Using Python - Basic Programming Constructs](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2015%20-%20Programming%20Essentials%20Using%20Python%20-%20Basic%20Programming%20Constructs)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

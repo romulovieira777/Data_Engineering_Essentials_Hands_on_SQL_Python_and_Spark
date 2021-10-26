@@ -18,6 +18,7 @@
 - [Section 15 - Programming Essentials Using Python - Basic Programming Constructs](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2015%20-%20Programming%20Essentials%20Using%20Python%20-%20Basic%20Programming%20Constructs)
 - [Section 16 - Programming Essentials Using Python - Predefined Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2016%20-%20Programming%20Essentials%20Using%20Python%20-%20Predefined%20Functions)
 - [Section 17 - Programming Essentials Using Python - User Defined Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2017%20-%20Programming%20Essentials%20Using%20Python%20-%20User%20Defined%20Functions)
+- [Section 18 - Programming Essentials Using Python - Overview of Collections - List and Set](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2018%20-%20Programming%20Essentials%20Using%20Python%20-%20Overview%20of%20Collections%20-%20List%20and%20Set)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

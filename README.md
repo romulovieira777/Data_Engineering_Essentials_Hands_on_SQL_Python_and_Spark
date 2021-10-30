@@ -21,6 +21,6 @@
 - [Section 18 - Programming Essentials Using Python - Overview of Collections - List and Set](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2018%20-%20Programming%20Essentials%20Using%20Python%20-%20Overview%20of%20Collections%20-%20List%20and%20Set)
 - [Section 19 - Programming Essentials Using Python - Overview of Collections - Dict and Tuple](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2019%20-%20Programming%20Essentials%20Using%20Python%20-%20Overview%20of%20Collections%20-%20Dict%20and%20Tuple)
 - [Section 20 - Programming Essentials Using Python - Manipulating Collections using Loops](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2020%20-%20Programming%20Essentials%20Using%20Python%20-%20Manipulating%20Collections%20using%20Loops)
-
+- [Section 21 - Programming Essentials Using Python - Understanding Map Reduce Libraries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2021%20-%20Programming%20Essentials%20Using%20Python%20-%20Understanding%20Map%20Reduce%20Libraries)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

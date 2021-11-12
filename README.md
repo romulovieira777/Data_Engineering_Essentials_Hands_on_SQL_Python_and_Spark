@@ -24,5 +24,6 @@
 - [Section 21 - Programming Essentials Using Python - Understanding Map Reduce Libraries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2021%20-%20Programming%20Essentials%20Using%20Python%20-%20Understanding%20Map%20Reduce%20Libraries)
 - [Section 22 - Programming Essentials Using Python - Basics of File IO using Python](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2022%20-%20Programming%20Essentials%20Using%20Python%20-%20Basics%20of%20File%20IO%20using%20Python)
 - [Section 23 - Programming Essentials Using Python - Delimited Files and Collections](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2023%20-%20Programming%20Essentials%20Using%20Python%20-%20Delimited%20Files%20and%20Collections)
+- [Section 24 - Programming Essentials Using Python - Overview of Pandas Libraries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2024%20-%20Programming%20Essentials%20Using%20Python%20-%20Overview%20of%20Pandas%20Libraries)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

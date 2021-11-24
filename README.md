@@ -27,5 +27,6 @@
 - [Section 24 - Programming Essentials Using Python - Overview of Pandas Libraries](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2024%20-%20Programming%20Essentials%20Using%20Python%20-%20Overview%20of%20Pandas%20Libraries)
 - [Section 25 - Programming Essentials Using Python - Database Programming CRUD Operations](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2025%20-%20Programming%20Essentials%20Using%20Python%20-%20Database%20Programming%20CRUD%20Operations)
 - [Section 26 - Programming Essentials Using Python - Database Programming Bath Operation](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2026%20-%20Programming%20Essentials%20Using%20Python%20-%20Database%20Programming%20Bath%20Operation)
+- [Section 27 - Programming Essentials Using Python - Processing JSON Data](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2027%20-%20Programming%20Essentials%20Using%20Python%20-%20Processing%20JSON%20Data)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

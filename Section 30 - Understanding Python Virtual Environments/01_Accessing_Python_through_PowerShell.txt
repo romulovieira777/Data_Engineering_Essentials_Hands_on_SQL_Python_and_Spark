@@ -1,0 +1,5 @@
+# Accessing Python through PowerShell
+python
+
+# Exiting Python from PowerShell
+exit()

@@ -1,0 +1,6 @@
+# Installing pip
+pip install psycopg2
+
+pip install flask
+
+pip install sqlalchemy

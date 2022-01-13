@@ -1,0 +1,14 @@
+# Creating a folder
+mkdir flask_demo
+
+# Changing folder
+cd flask_demo
+
+# Creating the virtual environment
+python -m venv fd-venv
+
+# Activating the virtual environment
+Scripts\activate
+
+# Disabling the virtual environment
+deactivate

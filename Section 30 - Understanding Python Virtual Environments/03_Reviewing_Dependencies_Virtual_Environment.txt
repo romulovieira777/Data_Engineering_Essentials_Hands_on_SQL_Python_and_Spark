@@ -1,0 +1,14 @@
+# Activating the virtual environment
+Scripts\activate
+
+# Listing installed pips
+pip list
+
+# Updating the pip
+pip install --upgrade pip
+
+# Listing installed pips
+pip list
+
+# Disabling the virtual environment
+deactivate

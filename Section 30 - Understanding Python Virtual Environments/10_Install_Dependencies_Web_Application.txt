@@ -1,0 +1,20 @@
+# Viewing the contents of the file
+type requirements.txt
+
+# Seeing all pip commands
+pip
+
+# Help with PIP commands
+pip install -h
+
+# Installing pip
+pip install -r requirements.txt
+
+# Uninstalling a pip package
+pip uninstall -r requirements.txt
+
+# Disabling the virtual environment
+deactivate
+
+# Deleting all folders
+del fd-ven*

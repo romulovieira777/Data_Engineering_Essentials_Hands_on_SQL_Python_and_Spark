@@ -1,0 +1,14 @@
+# Checking pip help
+pip
+
+# Listing all pip packages
+pip list
+
+# Looking at a specific package
+pip show SQLAlchemy
+
+# Checking packages and version
+pip freeze
+
+# Checking packages list
+pip list

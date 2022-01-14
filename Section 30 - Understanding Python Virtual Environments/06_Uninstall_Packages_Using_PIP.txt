@@ -1,0 +1,17 @@
+# Checking packages list
+pip list
+
+# Uninstalling a pip package
+pip uninstall psycopg2
+
+# Checking packages list
+pip list
+
+# Help with PIP uninstall commands
+pip uninstall -h
+
+# Uninstalling a pip package
+pip uninstall SQLAlchemy
+
+# Uninstalling a pip package
+pip uninstall Flask

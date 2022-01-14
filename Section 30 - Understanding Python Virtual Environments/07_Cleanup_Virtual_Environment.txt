@@ -1,0 +1,5 @@
+# Listing the files inside the folder
+ls -ltr
+
+# Deleting all folders
+rm -rf fd-venv

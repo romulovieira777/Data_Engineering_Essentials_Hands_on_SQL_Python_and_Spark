@@ -1,0 +1,23 @@
+# Choosing a folder
+cd .\Desktop\
+
+# Creating a folder
+mkdir de_demo
+
+# Changing folder
+cd de_demo
+
+# Creating the virtual environment
+python -m venv de-venv
+
+# Changing folder
+cd de-venv
+
+# Activating the virtual environment
+Scripts\activate
+
+# Listing installed pips
+pip list
+
+# Going back a folder
+cd ..

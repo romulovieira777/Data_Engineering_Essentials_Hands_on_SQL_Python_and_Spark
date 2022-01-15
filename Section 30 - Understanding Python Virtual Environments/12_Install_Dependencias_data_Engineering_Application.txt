@@ -1,0 +1,8 @@
+# Creating a vi file
+copy con requirements.txt
+
+# Installing pip
+pip install -r requirements.txt
+
+# Listing installed pips
+pip list

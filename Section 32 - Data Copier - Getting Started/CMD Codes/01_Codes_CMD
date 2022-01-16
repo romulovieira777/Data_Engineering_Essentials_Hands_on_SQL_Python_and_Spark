@@ -1,0 +1,26 @@
+# Choosing the folder
+cd Desktop
+
+# Creating a folder
+mkdir Projects
+
+# Choosing the folder
+cd Projects
+
+# Creating a folder
+mkdir Internal
+
+# Choosing the folder
+cd Internal
+
+# Creating a folder
+mkdir bootcamp
+
+# Choosing the folder
+cd bootcamp
+
+# Creating a folder
+mkdir data-copier
+
+# Choosing the folder
+cd data-copier

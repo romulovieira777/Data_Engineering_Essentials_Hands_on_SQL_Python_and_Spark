@@ -1,0 +1,8 @@
+# Listing the images
+docker ps
+
+# Listing the containers
+docker container ps -a
+
+# Running the container
+docker run hello-world

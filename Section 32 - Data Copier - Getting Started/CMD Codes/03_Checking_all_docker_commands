@@ -1,0 +1,18 @@
+# Checking all docker commands
+docker
+
+# Listing the images
+docker images
+
+docker images ls
+
+# Listing the containers
+docker container ls
+
+docker container ps -a
+
+# Listing docker image commands
+docker image -h
+
+# Deleting a container
+docker container rm hello-world

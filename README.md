@@ -33,5 +33,6 @@
 - [Section 30 - Understanding Python Virtual Environments](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2030%20-%20Understanding%20Python%20Virtual%20Environments)
 - [Section 31 - Overview of Pycharm for Python Application Development](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2031%20-%20Overview%20of%20Pycharm%20for%20Python%20Application%20Development)
 - [Section 32 - Data Copier - Getting Started](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2032%20-%20Data%20Copier%20-%20Getting%20Started)
+- [Section 33 - Data Copier - Reading Data using Pandas]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

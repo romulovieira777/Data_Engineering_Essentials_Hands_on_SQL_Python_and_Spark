@@ -37,5 +37,6 @@
 - [Section 34 - Data Copier - Database Programming using Pandas](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2034%20-%20Data%20Copier%20-%20Database%20Programming%20using%20Pandas)
 - [Section 35 - Data Copier - Loading Data from Files to Tables](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2035%20-%20Data%20Copier%20-%20Loading%20Data%20from%20Files%20to%20Tables)
 - [Section 36 - Data Copier - Modularizing the Application](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2036%20-%20Data%20Copier%20-%20Modularizing%20the%20Application)
+- [Section 37 - Data Copier - Dockerizing the Application](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2037%20-%20Data%20Copier%20-%20Dockerizing%20the%20Application)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

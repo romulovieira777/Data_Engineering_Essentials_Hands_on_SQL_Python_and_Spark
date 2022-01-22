@@ -1,0 +1,17 @@
+docker ps
+
+docker inspect retail_pg
+
+docker exec -it retail_pg hostname -f
+
+docker network -h
+
+docker network ls
+
+docker network create data-copier-nw
+
+docker network connect -h
+
+docker network connect data-copier-nw retail_pg
+
+docker inspect retail_pg

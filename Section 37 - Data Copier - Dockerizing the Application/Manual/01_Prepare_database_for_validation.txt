@@ -1,0 +1,18 @@
+docker exec it retail_pg psql -U retail_user -d retail_db -w
+
+docker ps
+
+# Comandos dentro do banco de dados
+DROP TABLE users;
+
+TRUNCATE TABLE departments;
+
+TRUNCATE TABLE categories;
+
+TRUNCATE TABLE products;
+
+TRUNCATE TABLE customers;
+
+TRUNCATE TABLE orders;
+
+TRUNCATE TABLE order_items;

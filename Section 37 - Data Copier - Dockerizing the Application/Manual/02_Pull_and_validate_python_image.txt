@@ -1,0 +1,31 @@
+docker pull python
+
+docker run -it --name validate python bash
+
+python
+
+exit()
+
+docker ps -a
+
+docker rm validate
+
+docker rmi python
+
+docker pull python:3.7
+
+docker run -it --name validate python:3.7 bash
+
+python
+
+exit()
+
+exit
+
+docker ps
+
+docker ps -a
+
+docker rm validate
+
+docker images

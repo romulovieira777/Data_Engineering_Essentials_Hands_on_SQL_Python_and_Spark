@@ -1,0 +1,11 @@
+docker exec -it retail_pg bash
+
+ls
+
+uname -a
+
+psql -U postgres
+
+\q
+
+eit

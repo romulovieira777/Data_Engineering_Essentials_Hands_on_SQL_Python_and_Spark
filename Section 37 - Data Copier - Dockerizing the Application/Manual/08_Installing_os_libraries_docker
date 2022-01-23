@@ -1,0 +1,7 @@
+apt install telnet
+
+apt updated
+
+apt install telnet
+
+rm -rf /var/lib/apt/lists/*

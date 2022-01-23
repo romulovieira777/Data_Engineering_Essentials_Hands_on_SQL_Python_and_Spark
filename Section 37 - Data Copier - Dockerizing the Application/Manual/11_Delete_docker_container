@@ -1,0 +1,17 @@
+docker ps -a
+
+docker start -h
+
+docker start -i data-copier
+
+ls -ltr
+
+telnet
+
+quit
+
+docker rm data-copier
+
+docker run -it --name=data-copier python:3.7 bash
+
+docker rm data-copier

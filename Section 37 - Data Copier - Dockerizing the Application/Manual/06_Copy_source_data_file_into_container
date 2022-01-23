@@ -1,0 +1,5 @@
+docker cp <put file path>
+
+ls -ltr
+
+ls -ltr retail_db_json

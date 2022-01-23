@@ -1,0 +1,9 @@
+telnet
+
+quit
+
+docker inspect retail_pg
+
+telnet hostname 5432
+
+quit

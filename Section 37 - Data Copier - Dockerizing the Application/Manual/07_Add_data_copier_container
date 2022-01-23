@@ -1,0 +1,11 @@
+docker ps
+
+docker inspect retail_pg
+
+docker inspect data-copier
+
+docker network connect data-copier-nw-data-copier
+
+docker network connect data-copier
+
+docker network connect retail_pg

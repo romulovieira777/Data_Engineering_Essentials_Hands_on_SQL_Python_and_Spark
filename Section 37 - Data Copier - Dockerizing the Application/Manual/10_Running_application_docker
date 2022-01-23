@@ -1,0 +1,35 @@
+ls -ltr retail_db_json/
+
+ls -ltr data-copier
+
+pip list
+
+telnet
+
+cd data-copier
+
+ls -ltr
+
+python app.py departments, categories
+
+export DB_HOST=
+
+export DB_PORT=5432
+
+export DB_NAME=
+
+export DB_USER=
+
+export DB_PASS=
+
+export BASE_DIR=/retail_db_json
+
+exit
+
+docker exec -it retail_db_json -U retail_user -d retail_db -W
+
+\d
+
+SELECT * FROM departments;
+
+SELECT * FROM categories;

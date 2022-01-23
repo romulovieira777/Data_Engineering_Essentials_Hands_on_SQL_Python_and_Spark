@@ -1,0 +1,25 @@
+docker ps -a
+
+docker images
+
+docker run -it --name data-copier python:3.7 bash
+
+python
+
+exit()
+
+pip list
+
+docker cp -h
+
+docker cp app.py data-copier:/data-copier
+
+docker cp read.py data-copier:/data-copier
+
+docker cp write.py data-copier:/data-copier
+
+docker cp requirements.py data-copier:/data-copier
+
+ls -ltr data-copier/
+
+pip install -r data-copier/requirements.txt

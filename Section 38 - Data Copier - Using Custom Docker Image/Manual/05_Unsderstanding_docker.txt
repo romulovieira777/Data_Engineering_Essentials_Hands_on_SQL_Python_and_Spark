@@ -1,0 +1,7 @@
+docker images
+
+docker image prune -a
+
+docker images
+
+docker build -t data-copier .

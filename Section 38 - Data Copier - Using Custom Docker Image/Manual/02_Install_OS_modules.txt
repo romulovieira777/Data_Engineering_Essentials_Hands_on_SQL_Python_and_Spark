@@ -1,0 +1,15 @@
+docker build -t data-copier .
+
+docker run -it --name data-copier data-copier bash
+
+telnet
+
+uit
+
+quit
+
+exit
+
+docker ps -a
+
+docker images

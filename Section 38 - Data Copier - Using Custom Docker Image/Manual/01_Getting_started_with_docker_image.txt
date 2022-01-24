@@ -1,0 +1,13 @@
+docker build -t data-copier .
+
+docker images
+
+docker run -it --name data-copier data-copier bash
+
+python
+
+exit()
+
+docker rm data-copier
+
+docker rmi data-copier

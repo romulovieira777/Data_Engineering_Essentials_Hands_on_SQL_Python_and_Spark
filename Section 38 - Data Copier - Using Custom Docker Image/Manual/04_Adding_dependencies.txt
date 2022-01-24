@@ -1,0 +1,13 @@
+docker build -t data-copier .
+
+docker images
+
+docker run -it --name data-copier -rm data-copier bash
+
+python
+
+import pandas as pd
+
+exit()
+
+exit

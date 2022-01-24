@@ -1,0 +1,13 @@
+docker run -it --name data-copier --rm -v fold path data-copier bash
+
+docker run -v -h
+
+docker run -h
+
+docker run --help
+
+docker run -it --name data-copier --rm -v fold path data-copier bash
+
+ls -ltr
+
+ls -ltr retail_db_json/

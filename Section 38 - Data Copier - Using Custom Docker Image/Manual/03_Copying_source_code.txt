@@ -1,0 +1,37 @@
+docker build -t data-copier .
+
+docker run -it --name data-copier -rm data-copier bash
+
+ls -ltr
+
+ls -ltr data-copier
+
+exit
+
+docker build -t data-copier .
+
+docker images
+
+docker run -it --name data-copier -rm data-copier bash
+
+ls -ltr
+
+ls -ltr data-copier
+
+exit
+
+docker build -t data-copier .
+
+docker images
+
+docker run -it --name data-copier -rm data-copier bash
+
+ls -ltr
+
+ls -ltr data-copier
+
+find data-copier/
+
+exit
+
+docker ps -a

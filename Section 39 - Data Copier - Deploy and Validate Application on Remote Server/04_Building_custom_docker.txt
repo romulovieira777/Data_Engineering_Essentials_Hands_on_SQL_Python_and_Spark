@@ -1,0 +1,11 @@
+python3.6
+
+exit()
+
+python
+
+cat Dockerfile
+
+docker build -t data-copier .
+
+docker images

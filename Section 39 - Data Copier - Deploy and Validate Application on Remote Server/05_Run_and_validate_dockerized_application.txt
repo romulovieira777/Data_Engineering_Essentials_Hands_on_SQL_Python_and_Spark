@@ -1,0 +1,31 @@
+cat dockercommand.sh
+
+docker run \
+-it \
+--name data-copier \
+--hostname data-copier \
+--network data-copier-nw \
+--rm \
+-v /home/ubuntu/enviroment/retail_db_json:/retail_db_json \
+-e BASE_DIR=/retail_db_json \
+-e DB_HOST=retail_pg \
+-e DB_PORT=5432 \
+-e DB_NAME=retail_db \
+-e DB_USER=retail_user \
+-e DB_PASS=itversity \
+data-copier \
+python /data-copier/app/aap.py departments, categories
+
+docker exec -it retail_pg psql -U retail_user -d retail_db -w
+
+SELECT * FROM categories;
+
+SELECT * FROM departments;
+
+SELECT COUNT(*) FROM categories;
+
+SELECT COUNT(*) FROM departments;
+
+SELECT * FROM orders;
+
+SELECT * FROM order_items;

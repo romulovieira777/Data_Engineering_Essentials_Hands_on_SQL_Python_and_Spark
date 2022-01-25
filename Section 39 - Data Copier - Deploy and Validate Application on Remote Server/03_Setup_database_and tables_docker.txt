@@ -1,0 +1,15 @@
+docker exec -it retail_pg psql-U postgres
+
+CREATE DATABASE retail_db;
+
+CREATE USER retail_user WITH ENCRYPTED PASSWORD 'itversity';
+
+GRANT ALL PRIVILEGES ON DATABASE retail_db TO retail_user;
+
+\q
+
+docker exec -it retail_pg psql -U retail_user -d retail_db -w -f /data/retail_db_json/create_db_tables_pg.sql
+
+docker exec -it retail_pg psql -U retail_user -d retail_db -w
+
+\d

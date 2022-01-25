@@ -1,0 +1,7 @@
+docker network
+
+docker network create data-copier-network
+
+docker network ls
+
+docker images

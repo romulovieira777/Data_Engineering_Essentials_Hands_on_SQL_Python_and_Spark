@@ -1,0 +1,5 @@
+git clone
+
+ls ltr
+
+ls -ltr

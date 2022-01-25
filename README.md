@@ -40,5 +40,6 @@
 - [Section 37 - Data Copier - Dockerizing the Application](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2037%20-%20Data%20Copier%20-%20Dockerizing%20the%20Application)
 - [Section 38 - Data Copier - Using Custom Docker Image](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2038%20-%20Data%20Copier%20-%20Using%20Custom%20Docker%20Image)
 - [Section 39 - Data Copier - Deploy and Validate Application on Remote Server](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2039%20-%20Data%20Copier%20-%20Deploy%20and%20Validate%20Application%20on%20Remote%20Server)
+- [Section 40 - Setup Hadoop on Single Node Cluster](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2040%20-%20Setup%20Hadoop%20on%20Single%20Node%20Cluster)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

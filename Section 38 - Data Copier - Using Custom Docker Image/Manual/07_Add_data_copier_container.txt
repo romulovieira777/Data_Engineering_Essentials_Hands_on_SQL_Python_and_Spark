@@ -1,0 +1,9 @@
+docker ps
+
+docker ps -a
+
+docker inspect retail_db
+
+docker container --help
+
+docker run container --help

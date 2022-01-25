@@ -1,0 +1,15 @@
+docker exec -it retail_pg psql -U retail_user -d rentail_db -W
+
+SELECT count(1) FROM departments;
+
+SELECT count(1) FROM categories;
+
+TRUNCATE TABLE departments;
+
+TRUNCATE TABLE categories;
+
+SELECT count(1) FROM departments;
+
+SELECT count(1) FROM categories;
+
+\q

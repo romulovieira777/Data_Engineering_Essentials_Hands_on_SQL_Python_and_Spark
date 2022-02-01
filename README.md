@@ -41,5 +41,6 @@
 - [Section 38 - Data Copier - Using Custom Docker Image](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2038%20-%20Data%20Copier%20-%20Using%20Custom%20Docker%20Image)
 - [Section 39 - Data Copier - Deploy and Validate Application on Remote Server](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2039%20-%20Data%20Copier%20-%20Deploy%20and%20Validate%20Application%20on%20Remote%20Server)
 - [Section 40 - Setup Single Node Hadoop and Spark Cluster or Lab using Docker](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2040%20-%20Setup%20Single%20Node%20Hadoop%20and%20Spark%20Cluster%20or%20Lab%20using%20Docker)
+- [Section 41 - Introduction to Hadoop Eco System - Overview of HDFS](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2041%20-%20Introduction%20to%20Hadoop%20Eco%20System%20-%20Overview%20of%20HDFS)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

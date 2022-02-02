@@ -43,5 +43,6 @@
 - [Section 40 - Setup Single Node Hadoop and Spark Cluster or Lab using Docker](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2040%20-%20Setup%20Single%20Node%20Hadoop%20and%20Spark%20Cluster%20or%20Lab%20using%20Docker)
 - [Section 41 - Introduction to Hadoop Eco System - Overview of HDFS](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2041%20-%20Introduction%20to%20Hadoop%20Eco%20System%20-%20Overview%20of%20HDFS)
 - [Section 42 - Data Engineering using Spark SQL - Getting Started](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2042%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Getting%20Started)
+- [Section 43 - Data Engineering using Spark SQL - Basic Transformations](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2043%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Basic%20Transformations)
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

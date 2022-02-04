@@ -46,6 +46,7 @@
 - [Section 43 - Data Engineering using Spark SQL - Basic Transformations](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2043%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Basic%20Transformations)
 - [Section 44 - Data Engineering using Spark SQL - Basic DDL and DML](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2044%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Basic%20DDL%20and%20DML)
 - [Section 45 - Data Engineering using Spark SQL - Managing Tables - DML and Partitioning](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2045%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Managing%20Tables%20-%20DML%20and%20Partitioning)
+- [Section 46 - Data Engineering using Spark SQL - Overview of Spark SQL Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2046%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Overview%20of%20Spark%20SQL%20Functions)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

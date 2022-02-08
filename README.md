@@ -49,6 +49,7 @@
 - [Section 46 - Data Engineering using Spark SQL - Overview of Spark SQL Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2046%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Overview%20of%20Spark%20SQL%20Functions)
 - [Section 47 - Data Engineering using Spark SQL -Windowing Functions](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2047%20-%20Data%20Engineering%20using%20Spark%20SQL%20-%20Windowing%20Functions)
 - [Section 48 - Apache Spark using Python - Data Processing Overview](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2048%20-%20Apache%20Spark%20using%20Python%20-%20Data%20Processing%20Overview)
+- [Section 49 - Apache Spark using Python - Processing Column Data](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2049%20-%20Apache%20Spark%20using%20Python%20-%20Processing%20Column%20Data)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

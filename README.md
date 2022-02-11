@@ -51,6 +51,8 @@
 - [Section 48 - Apache Spark using Python - Data Processing Overview](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2048%20-%20Apache%20Spark%20using%20Python%20-%20Data%20Processing%20Overview)
 - [Section 49 - Apache Spark using Python - Processing Column Data](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2049%20-%20Apache%20Spark%20using%20Python%20-%20Processing%20Column%20Data)
 - [Section 50 - Apache Spark using Python - Basic Transformations](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2050%20-%20Apache%20Spark%20using%20Python%20-%20Basic%20Transformations)
+- [Section 51 - Apache Spark using Python - Joining Data Sets](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2051%20-%20Apache%20Spark%20using%20Python%20-%20Joining%20Data%20Sets)
+- [Section 52 - Apache Spark using Python - Spark Metastore]()
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)

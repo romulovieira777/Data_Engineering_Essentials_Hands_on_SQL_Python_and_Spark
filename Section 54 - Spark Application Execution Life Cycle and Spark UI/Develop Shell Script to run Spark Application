@@ -1,0 +1,11 @@
+Develop Shell Script to run Spark Application
+Paste this shell script as part of a file called runme.sh or with name of your choice.
+
+export PYSPARK_PYTHON=python3
+export SPARK_MAJOR_VERSION=3
+ 
+spark-submit \
+  --master yarn \
+  --conf spark.ui.port=0 \
+  /home/itversity/wordcount/word_count.py
+Once shell script is created, it can be run using source runme.sh

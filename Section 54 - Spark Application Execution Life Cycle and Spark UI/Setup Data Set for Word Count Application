@@ -1,0 +1,13 @@
+Setup Data Set for Word Count Application
+If you are using ITVersity labs, you can skip this and use /public/randomtextwriter to test word count application.
+
+Step 1: Find hadoop map reduce examples jar. Make sure to use the path relevant to your environment.
+
+find /opt/hadoop/ -name "hadoop*mapreduce*examples*.jar"
+
+Step 2: Run relevant command to generate the test data for word count
+
+hadoop jar \
+  /opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.0.jar \
+  randomtextwriter -Dmapreduce.randomtextwriter.mapsperhost=2 \
+  /user/`whoami`/randomtextwriter

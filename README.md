@@ -54,6 +54,7 @@
 - [Section 51 - Apache Spark using Python - Joining Data Sets](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2051%20-%20Apache%20Spark%20using%20Python%20-%20Joining%20Data%20Sets)
 - [Section 52 - Apache Spark using Python - Spark Metastore](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2052%20-%20Apache%20Spark%20using%20Python%20-%20Spark%20Metastore)
 - [Section 53 - Apache Spark - Development Life Cycle using Python](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2053%20-%20Apache%20Spark%20-%20Development%20Life%20Cycle%20using%20Python)
+- [Section 54 - Spark Application Execution Life Cycle and Spark UI](https://github.com/romulovieira777/Data_Engineering_Essentials_Hands_on_SQL_Python_and_Spark/tree/main/Section%2054%20-%20Spark%20Application%20Execution%20Life%20Cycle%20and%20Spark%20UI)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/)
